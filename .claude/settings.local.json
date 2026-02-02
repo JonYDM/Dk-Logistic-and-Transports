@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss init -p)",
+      "Bash(node:*)",
+      "Bash(npm run dev:*)",
+      "Bash(start http://localhost:5173)",
+      "Bash(npx shadcn@latest add:*)",
+      "Bash(npx shadcn@latest init -y)",
+      "Bash(npx shadcn@latest init)"
+    ]
+  }
+}
